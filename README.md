@@ -1,2 +1,4 @@
 # college-view
-this is my repository
+This is my repository.
+
+AUTHOR -abhisek bharti
